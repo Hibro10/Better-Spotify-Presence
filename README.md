@@ -26,6 +26,14 @@ A Sleek And Useful Better Discord Plugin That Changes The Default Spotify Presen
 3. Restart Discord or reload plugins via the BetterDiscord settings
 4. Enable the plugin in the Plugins tab
 
+## 📦 Spotify Installation
+1. Download the plugin file: `DiscordPresenceSync.js`
+2. Move it to you Spicetify Plugins folder:
+   - Windows: `%appdata%/Roaming/spicetify/Extensions`
+   - macOS: `~/.config/spicetify/Extensions`
+3. Run the `Setup.bat` file
+4. Spotify should restart
+
 ## 🐛 Troubleshooting
 
 - **Make Sure Both The Discord And Spotify Plugins Are Installed**
