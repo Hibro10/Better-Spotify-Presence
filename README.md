@@ -1,6 +1,6 @@
 # Better-Spotify-Presence
 
-A sleek and customizable BetterDiscord plugin that [briefly describe what it does—e.g., "enhances Spotify presence in Discord with rich metadata and album art display"].
+A Sleek And Useful Better Discord Plugin That Changes The Default Spotify Presence To A Custom One That Supports Local File Detection And Has Buttons In The Presence To Search The Song Up On Genuis Or Google.
 
 ## 🚀 Features
 
@@ -8,30 +8,28 @@ A sleek and customizable BetterDiscord plugin that [briefly describe what it doe
 - 🖼️ Album art preview directly in your profile
 - ⚙️ Customizable display options (track name, artist, duration, etc.)
 - 🔒 Lightweight and privacy-respecting—no external API calls
+- 💻 Local file detection support (with info about the song, artist, album)
+- 🔘 Info buttons in the presence that lead you to genius or google
 
-## 📦 Installation
+## 🧠 Requirements
 
-1. Download the plugin file: `[YourPluginName.plugin.js]`
+- [BetterDiscord](https://betterdiscord.app/) installed and running
+- [Spotify](https://www.spotify.com/us/download/windows/) (Must be installed from the website or spicetify wont work **Click Download Directly From Spotify**)
+- [Spicetify](https://spicetify.app/docs/getting-started/) installed and running
+
+## 📦 Discord Installation
+
+1. Download the plugin file: `SpotifyPresence.plugin.js`
 2. Move it to your BetterDiscord plugins folder:
-   - Windows: `%appdata%/BetterDiscord/plugins`
+   - Windows: `%appdata%/Roaming/BetterDiscord/plugins`
    - macOS: `~/Library/Application Support/BetterDiscord/plugins`
 3. Restart Discord or reload plugins via the BetterDiscord settings
 4. Enable the plugin in the Plugins tab
 
-## 🛠️ Configuration
-
-Click the ⚙️ icon next to the plugin in BetterDiscord to access settings:
-- Toggle metadata display
-- Choose between compact or full layout
-- Enable/disable album art
-
-## 🧠 Requirements
-
-- BetterDiscord installed and running
-- Spotify desktop app (for presence detection)
-
 ## 🐛 Troubleshooting
 
+- **Make Sure Both The Discord And Spotify Plugins Are Installed**
+- **Make Sure The Node Server Is Running So Spotify And Discord Can Connect**
 - Make sure Discord and Spotify are both running
 - Check for plugin updates if Spotify presence isn't detected
 - Enable developer mode in Discord for advanced debugging
@@ -46,7 +44,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-**Made with ❤️ by [Your Name or Team Name]**
+**Made with ❤️ by Ender_Pearl59**
 
 
 
