@@ -1,6 +1,6 @@
 # Better-Spotify-Presence
 
-#**W.I.P The Current Instrutions May And Probally Will Change**
+# **W.I.P The Current Instrutions May And Probally Will Change**
 
 A Sleek And Useful Better Discord Plugin That Changes The Default Spotify Presence To A Custom One That Supports Local File Detection And Has Buttons In The Presence To Search The Song Up On Genuis Or Google.
 
