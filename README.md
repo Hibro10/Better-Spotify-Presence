@@ -16,6 +16,7 @@ A Sleek And Useful Better Discord Plugin That Changes The Default Spotify Presen
 - [BetterDiscord](https://betterdiscord.app/) installed and running
 - [Spotify](https://www.spotify.com/us/download/windows/) (Must be installed from the website or spicetify wont work **Click Download Directly From Spotify**)
 - [Spicetify](https://spicetify.app/docs/getting-started/) installed and running
+- [Node](https://nodejs.org/en/download) Installed
 
 ## 📦 Discord Installation
 
